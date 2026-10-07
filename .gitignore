@@ -25,3 +25,13 @@ dist-ssr
 
 # Testing & Verification
 verification/
+
+# Protected local configuration
+.local-testing/
+.worktrees/
+app/test-components/
+PROJECT_GUIDE.md
+*AGENTS*.md
+.codex/
+.agents/
+Context/
